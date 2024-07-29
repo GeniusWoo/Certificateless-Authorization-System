@@ -124,39 +124,39 @@ Idi char(10) not null,
 
 次级节点公私钥生成
 
-![](image\7.png)
+![](image/7.png)
 
 User 公私钥生成
 
-![](image\8.png)
+![](image/8.png)
 
 User 间身份认证过程
 
-![](image\9.png)
+![](image/9.png)
 
-![](image\10.png)
+![](image/10.png)
 ## 身份认证算法设计
 
 初始设置阶段
 
-![](image\1.png)
+![](image/1.png)
 
 节点KGC密钥生成
 
-![](image\3.png)
+![](image/3.png)
 
 用户密钥生成
 
-![](image\2.png)
+![](image/2.png)
 
 加密验证值生成
 
-![](image\4.png)
+![](image/4.png)
 
 解密密钥生成
 
-![](image\5.png)
+![](image/5.png)
 
 验证值解密
 
-![](image\6.png)
+![](image/6.png)
